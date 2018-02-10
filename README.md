@@ -8,7 +8,7 @@ I'm not going to lose sleep over it.
 <Insert your name here> in the year of 2018
 ```
 
-If you end up using this license, feel free to fork this page, add your contribution and send me a pull request so I can add it to the following list. But if you chose not to, I don't give a fuck.
+If you end up using this license, feel free to fork this page, add your contribution and send me a pull request so I can add it to the following list. But if you chose not to, I really couldn't give a fuck.
 
 ## Projects using the Hacky As Fuck Software License
 
