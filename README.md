@@ -7,3 +7,9 @@ I'd appreciate a mention if you do. But if you don't,
 I'm not going to lose sleep over it.
 <Insert your name here> in the year of 2018
 ```
+
+If you end up using this license, feel free to fork this page, add your contribution and send me a pull request. But if you chose not to, I don't give a fuck.
+
+## Projects using the Hacky As Fuck Software License
+
+The Hacky As Fuck Command Prompt [Github page](https://github.com/benhj/thehackyasfuckcommandprompt).
