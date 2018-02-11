@@ -12,4 +12,5 @@ If you end up using this license, feel free to fork this page, add your contribu
 
 ## Projects using the Hacky As Fuck Software License
 
-The Hacky As Fuck Command Prompt [Github page](https://github.com/benhj/thehackyasfuckcommandprompt).
+The Hacky As Fuck Command Prompt [Github](https://github.com/benhj/thehackyasfuckcommandprompt).
+Reddit Fluff [Github](https://github.com/impshum/Reddit-Fluff).
